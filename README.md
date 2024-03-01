@@ -33,32 +33,6 @@ team=[]
 # Then, we have an empty data set to be later filled by 
 # The pokemon user interaction below. 
 
-#p.sample(n=6)["identifier"].tolist()
-
-#p.loc[p['id'].isin([1,15,500])]
-
-#pandas check for specific input being present or not
-#p.loc[p['identifier']=='bulbasaur'].empty
-
-#insert item at specific index in list
-#team.insert(index,item)
-
-#remove item at specific index
-#team.pop(index)
-
-
-#out=[sub['name'] for sub in team ]
-#sorted(team, key=operator.itemgetter('name'))
-#dict.update(key=value)
-#dict.pop(key)
-#p.loc[p['identifier']=='bulbasaur',['id','identifier']]
-#p.loc[p['identifier']=='bulbasaur',['id','identifier']].to_dict('records')
-#p.loc[p['identifier'].isin(['bulbasaur','squirtle']),['id','identifier']].to_dict('records')
-
-
-#nickname
-# top 3
-
 # Concurrently, we add four vairables such as 
 # 1. Add teammate
 # 2. Add nickname
